@@ -1,0 +1,16 @@
+#topbar{
+    background-color: $base-color;
+    padding: 10px;
+    i{
+        font-style: normal;
+    }
+    a{
+        color: white;
+    }
+    a:hover{
+        text-decoration: underline;
+    }
+    .fa-envelope{
+        color: white;
+    }
+}
